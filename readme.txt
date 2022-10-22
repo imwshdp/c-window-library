@@ -1,7 +1,7 @@
-Window library, created in Turbo C, using Midnight commander.
+Window library, created in Turbo C.
 Library provides opportunities create and destroy windows, put content using buffer, implements printing by processing keyboard keystrokes.
 
-File Guide:
+Files Guide:
 1. main.c           main controller
 2. base.c           include basic operations with video memory, such as writing string, drawing borders and creating a buffer
 3. base.h           header file for base.c
